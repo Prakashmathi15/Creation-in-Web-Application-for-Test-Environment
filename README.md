@@ -1,6 +1,6 @@
  # CREATION IN WEB APPLICATION FOR TEST ENVIRONMENT
   ## AIM
-       To Creation in Web Application for Test Environment.
+   To Creation in Web Application for Test Environment.
 ## PROBLEM STATEMENT
     Explain about the Experiment.
 
